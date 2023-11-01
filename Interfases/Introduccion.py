@@ -1,1 +1,10 @@
-print("Hola mundo, esta es mi primer interfas")
+print("Hola mundo, esta es mi primer interfaz")
+
+a=50
+b=56
+c=69
+
+def suma():
+    print(a+b+c)
+    
+suma()
